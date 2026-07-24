@@ -38,6 +38,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | [Incident Handler's Journal](./Incident-handlers-journal-completed.docx) | Ransomware attack documentation |
 | [Wireshark vs tcpdump Diagram](./Diagram-completed.pptx) | Comparison of two network protocol analyzers |
 | [Pyramid of Pain](./Pyramid-of-Pain-completed.pptx) | VirusTotal malware analysis and IoC identification |
+| [Alert Ticket - Phishing](./Alert-ticket-completed.docx) | Phishing alert investigation and escalation using playbook |
 
 ---
 
@@ -55,3 +56,4 @@ I am an organized and communicative cybersecurity professional currently complet
 - Vulnerability Assessment
 - Social Engineering Awareness (Phishing, USB Baiting)
 - Malware Analysis (VirusTotal, IoC Investigation)
+- Playbook-Based Incident Response
