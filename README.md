@@ -37,6 +37,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | [Parking Lot USB Exercise](./Parking-lot-USB-exercise-completed.docx) | USB baiting attack analysis |
 | [Incident Handler's Journal](./Incident-handlers-journal-completed.docx) | Ransomware attack documentation |
 | [Wireshark vs tcpdump Diagram](./Diagram-completed.pptx) | Comparison of two network protocol analyzers |
+| [Pyramid of Pain](./Pyramid-of-Pain-completed.pptx) | VirusTotal malware analysis and IoC identification |
 
 ---
 
@@ -53,3 +54,4 @@ I am an organized and communicative cybersecurity professional currently complet
 - Asset Management & Classification
 - Vulnerability Assessment
 - Social Engineering Awareness (Phishing, USB Baiting)
+- Malware Analysis (VirusTotal, IoC Investigation)
