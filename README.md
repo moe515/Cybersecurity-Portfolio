@@ -25,6 +25,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 08 | [Linux File Permissions](./08-Linux-File-Permissions.md) | Using chmod and ls -la to manage file access control |
 | 09 | [Apply Filters to SQL Queries](./09-Apply-Filters-to-SQL-Queries.md) | SQL filters using AND, OR, NOT, LIKE |
 | 10 | [Suricata IDS Lab](./10-Suricata-IDS-Lab.md) | Custom IDS rules, alerts, and log analysis with Suricata |
+| 11 | [Wazuh SIEM Lab](./11-Wazuh-SIEM-Lab.md) | SIEM querying and brute force SSH investigation with Wazuh |
 
 ### 📊 Additional Activities
 
@@ -59,3 +60,4 @@ I am an organized and communicative cybersecurity professional currently complet
 - Malware Analysis (VirusTotal, IoC Investigation)
 - Playbook-Based Incident Response
 - IDS Rules & Log Analysis (Suricata, jq, JSON)
+- SIEM Querying & Investigation (Wazuh)
