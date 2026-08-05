@@ -26,6 +26,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 09 | [Apply Filters to SQL Queries](./09-Apply-Filters-to-SQL-Queries.md) | SQL filters using AND, OR, NOT, LIKE |
 | 10 | [Suricata IDS Lab](./10-Suricata-IDS-Lab.md) | Custom IDS rules, alerts, and log analysis with Suricata |
 | 11 | [Wazuh SIEM Lab](./11-Wazuh-SIEM-Lab.md) | SIEM querying and brute force SSH investigation with Wazuh |
+| 12 | [Python Basics Lab](./12-Python-Basics-Lab.md) | Introduction to Python print() and code comments for security |
 
 ### 📊 Additional Activities
 
@@ -37,7 +38,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | [Access Control Worksheet](./Access-control-worksheet-completed.docx) | Investigation of unauthorized payroll access |
 | [Vulnerability Assessment Report](./Vulnerability-assessment-report-completed.docx) | Database server vulnerability analysis |
 | [Parking Lot USB Exercise](./Parking-lot-USB-exercise-completed.docx) | USB baiting attack analysis |
-| [Incident Handler's Journal](./Incident-handlers-journal-completed.docx) | Ransomware attack documentation |
+| [Incident Handler's Journal](./Incident-handlers-journal-final.docx) | 9-entry journal documenting incidents and tool usage |
 | [Wireshark vs tcpdump Diagram](./Diagram-completed.pptx) | Comparison of two network protocol analyzers |
 | [Pyramid of Pain](./Pyramid-of-Pain-completed.pptx) | VirusTotal malware analysis and IoC identification |
 | [Alert Ticket - Phishing](./Alert-ticket-completed.docx) | Phishing alert investigation and escalation using playbook |
@@ -61,3 +62,4 @@ I am an organized and communicative cybersecurity professional currently complet
 - Playbook-Based Incident Response
 - IDS Rules & Log Analysis (Suricata, jq, JSON)
 - SIEM Querying & Investigation (Wazuh)
+- Python Programming (print, comments, notebook environment)
