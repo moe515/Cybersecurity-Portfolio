@@ -26,7 +26,8 @@ I am an organized and communicative cybersecurity professional currently complet
 | 09 | [Apply Filters to SQL Queries](./09-Apply-Filters-to-SQL-Queries.md) | SQL filters using AND, OR, NOT, LIKE |
 | 10 | [Suricata IDS Lab](./10-Suricata-IDS-Lab.md) | Custom IDS rules, alerts, and log analysis with Suricata |
 | 11 | [Wazuh SIEM Lab](./11-Wazuh-SIEM-Lab.md) | SIEM querying and brute force SSH investigation with Wazuh |
-| 12 | [Python Basics Lab](./12-Python-Basics-Lab.md) | Introduction to Python print() and code comments for security |
+| 12 | [Python Basics Lab](./12-Python-Basics-Lab.md) | Introduction to Python print() and code comments |
+| 13 | [Python Variables Lab](./13-Python-Variables-Lab.md) | Variables, data types, and Boolean logic for login automation |
 
 ### 📊 Additional Activities
 
@@ -62,4 +63,4 @@ I am an organized and communicative cybersecurity professional currently complet
 - Playbook-Based Incident Response
 - IDS Rules & Log Analysis (Suricata, jq, JSON)
 - SIEM Querying & Investigation (Wazuh)
-- Python Programming (print, comments, notebook environment)
+- Python Programming (variables, data types, Boolean logic, automation)
