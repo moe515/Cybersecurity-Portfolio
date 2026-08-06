@@ -28,6 +28,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 11 | [Wazuh SIEM Lab](./11-Wazuh-SIEM-Lab.md) | SIEM querying and brute force SSH investigation with Wazuh |
 | 12 | [Python Basics Lab](./12-Python-Basics-Lab.md) | Introduction to Python print() and code comments |
 | 13 | [Python Variables Lab](./13-Python-Variables-Lab.md) | Variables, data types, and Boolean logic for login automation |
+| 14 | [Python Conditionals Lab](./14-Python-Conditionals-Lab.md) | if/elif/else and logical operators for access control automation |
 
 ### 📊 Additional Activities
 
@@ -63,4 +64,4 @@ I am an organized and communicative cybersecurity professional currently complet
 - Playbook-Based Incident Response
 - IDS Rules & Log Analysis (Suricata, jq, JSON)
 - SIEM Querying & Investigation (Wazuh)
-- Python Programming (variables, data types, Boolean logic, automation)
+- Python Programming (variables, data types, Boolean logic, conditionals, automation)
