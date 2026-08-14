@@ -30,6 +30,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 13 | [Python Variables Lab](./13-Python-Variables-Lab.md) | Variables, data types, and Boolean logic for login automation |
 | 14 | [Python Conditionals Lab](./14-Python-Conditionals-Lab.md) | if/elif/else and logical operators for access control automation |
 | 15 | [Python Loops Lab](./15-Python-Loops-Lab.md) | for/while loops for IP allowlist checking and security automation |
+| 16 | [Python Functions Lab](./16-Python-Functions-Lab.md) | Defining and calling functions for security alerts and data formatting |
 
 ### 📊 Additional Activities
 
