@@ -32,6 +32,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 15 | [Python Loops Lab](./15-Python-Loops-Lab.md) | for/while loops for IP allowlist checking and security automation |
 | 16 | [Python Functions Lab](./16-Python-Functions-Lab.md) | Defining and calling functions for security alerts and data formatting |
 | 17 | [Python Advanced Functions Lab](./17-Python-Advanced-Functions-Lab.md) | Built-in functions and custom login analysis with automated alerts |
+| 18 | [Python Strings Lab](./18-Python-Strings-Lab.md) | String indexing, slicing, and URL parsing for security analysis |
 
 ### 📊 Additional Activities
 
