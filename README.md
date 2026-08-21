@@ -33,6 +33,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 16 | [Python Functions Lab](./16-Python-Functions-Lab.md) | Defining and calling functions for security alerts and data formatting |
 | 17 | [Python Advanced Functions Lab](./17-Python-Advanced-Functions-Lab.md) | Built-in functions and custom login analysis with automated alerts |
 | 18 | [Python Strings Lab](./18-Python-Strings-Lab.md) | String indexing, slicing, and URL parsing for security analysis |
+| 19 | [Python Algorithm Lab](./19-Python-Algorithm-Lab.md) | Full user-device authentication algorithm using synchronized lists |
 
 ### 📊 Additional Activities
 
