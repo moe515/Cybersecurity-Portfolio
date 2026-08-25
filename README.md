@@ -37,6 +37,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 20 | [Python Regex Lab](./20-Python-Regex-Lab.md) | Regular expressions for extracting device IDs and IPs from security logs |
 | 21 | [Python File Handling Lab](./21-Python-File-Handling-Lab.md) | Reading, writing, and appending security log files and IP allowlists |
 | 22 | [Python Update File Algorithm](./22-Python-Update-File-Algorithm.md) | Automated IP allowlist management using Python file I/O |
+| 23 | [Python Debugging Lab](./23-Python-Debugging-Lab.md) | Identifying and fixing syntax, exception, and logic errors in Python |
 
 ### 📊 Additional Activities
 
