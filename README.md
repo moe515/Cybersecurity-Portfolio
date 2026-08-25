@@ -36,13 +36,13 @@ I am an organized and communicative cybersecurity professional currently complet
 | 19 | [Python Algorithm Lab](./19-Python-Algorithm-Lab.md) | Full user-device authentication algorithm using synchronized lists |
 | 20 | [Python Regex Lab](./20-Python-Regex-Lab.md) | Regular expressions for extracting device IDs and IPs from security logs |
 | 21 | [Python File Handling Lab](./21-Python-File-Handling-Lab.md) | Reading, writing, and appending security log files and IP allowlists |
-| 22 | [Python Update File Algorithm](./22-Python-Update-File-Algorithm.md) | ⭐ Portfolio: Automated IP allowlist management using Python file I/O |
+| 22 | [Python Update File Algorithm](./22-Python-Update-File-Algorithm.md) | Automated IP allowlist management using Python file I/O |
 
 ### 📊 Additional Activities
 
 | Document | Description |
 |---|---|
-| [⭐ Algorithm for File Updates in Python](./Algorithm-for-file-updates-in-Python-completed.docx) | Official portfolio document: Python algorithm for automated IP allowlist management |
+| [Algorithm for File Updates in Python](./Algorithm-for-file-updates-in-Python-completed.docx) | Official portfolio document: Python algorithm for automated IP allowlist management |
 | [Home Asset Inventory](./Home-asset-inventory-completed.xlsx) | Asset classification for a home office network |
 | [Risk Register](./Risk-register-completed.docx) | Risk assessment for a commercial bank |
 | [Data Leak Worksheet](./Data-leak-worksheet-completed.docx) | Analysis of a data leak using NIST SP 800-53 AC-6 |
