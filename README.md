@@ -42,6 +42,7 @@ I am an organized and communicative cybersecurity professional currently complet
 
 | Document | Description |
 |---|---|
+| [⭐ Algorithm for File Updates in Python](./Algorithm-for-file-updates-in-Python-completed.docx) | Official portfolio document: Python algorithm for automated IP allowlist management |
 | [Home Asset Inventory](./Home-asset-inventory-completed.xlsx) | Asset classification for a home office network |
 | [Risk Register](./Risk-register-completed.docx) | Risk assessment for a commercial bank |
 | [Data Leak Worksheet](./Data-leak-worksheet-completed.docx) | Analysis of a data leak using NIST SP 800-53 AC-6 |
