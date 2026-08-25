@@ -35,6 +35,7 @@ I am an organized and communicative cybersecurity professional currently complet
 | 18 | [Python Strings Lab](./18-Python-Strings-Lab.md) | String indexing, slicing, and URL parsing for security analysis |
 | 19 | [Python Algorithm Lab](./19-Python-Algorithm-Lab.md) | Full user-device authentication algorithm using synchronized lists |
 | 20 | [Python Regex Lab](./20-Python-Regex-Lab.md) | Regular expressions for extracting device IDs and IPs from security logs |
+| 21 | [Python File Handling Lab](./21-Python-File-Handling-Lab.md) | Reading, writing, and appending security log files and IP allowlists |
 
 ### 📊 Additional Activities
 
