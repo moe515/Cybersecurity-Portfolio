@@ -1,11 +1,11 @@
 # Cybersecurity Portfolio
-### Google Cybersecurity Certificate Program
+### Google Cybersecurity Professional Certificate
 
 ---
 
 ## About Me
 
-I am an organized and communicative cybersecurity professional currently completing the Google Cybersecurity Certificate. My goal is to specialize in penetration testing and red teaming, starting with a strong foundation in security analysis.
+I am an aspiring cybersecurity analyst and Google Cybersecurity Professional Certificate graduate focused on security operations, threat detection, incident response, and network analysis. I am building hands-on experience through structured labs and portfolio projects while preparing for entry-level SOC Analyst / Cybersecurity Analyst roles.
 
 ---
 
